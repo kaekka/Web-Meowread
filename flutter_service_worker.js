@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "85dec6a325f0e62b848b8f993683522c",
-"assets/AssetManifest.bin.json": "f70f59a99ad2ec39a984d01351377379",
-"assets/AssetManifest.json": "7264c0aa1894916bed54213e99dfcfd9",
+const RESOURCES = {"assets/AssetManifest.bin": "a74b9c16864186e4cf01abb275719cc2",
+"assets/AssetManifest.bin.json": "e645796a02a460c4e7d50463d2a32342",
+"assets/AssetManifest.json": "7eba5a9cb41dfed30621f9026f517f38",
 "assets/assets/books/atomic_habits.png": "95242e9e7f894344ff60a6f15c4f135e",
 "assets/assets/books/Ayat-Ayat_Cinta.png": "87635731307abb1fb9358ed18626c334",
 "assets/assets/books/bumi_manusia.png": "a0dab1c65cfdea04fe08bb6b546ff857",
@@ -26,6 +26,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "85dec6a325f0e62b848b8f993683522c
 "assets/assets/cats/kucing_let_me_think.jpg": "88099c34fc033ac52239dc31119fe3d9",
 "assets/assets/cats/kucing_putih_kampus1.jpg": "e91bc159da1b827bf33d6179d274ca29",
 "assets/assets/cats/mam.jpg": "e6a747d27ec6398b246283f3cf59879d",
+"assets/assets/cats/meng.jpg": "0cbf1d74dfb7e9e528e61bc995873d72",
 "assets/assets/cats/pustakapaw.jpg": "055793b355925e7e41e3bdb0d6b88c38",
 "assets/assets/cats/shepy.jpg": "5ba95729e0af8d267b787c0bfc5262c7",
 "assets/assets/cats/sicuki.jpg": "7213f586f87ed0bc7068e9bc6654060a",
@@ -33,7 +34,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "85dec6a325f0e62b848b8f993683522c
 "assets/assets/cats/Sipino_turu.jpg": "1487490f8bfa187538f5609bc0384ab0",
 "assets/assets/cats/sitoldon.jpg": "9fbdb91691b295e2ca7ef270b8ade894",
 "assets/assets/cats/wlee.jpg": "f6264b03652c765ba0b8e585bd8d8b65",
-"assets/assets/Logo.png": "2670ea9537db6eb1d3fe5fab2d736326",
+"assets/assets/Logo.png": "29b6176e57c76661a612c90955e062ae",
 "assets/assets/menu/drink/Cappucino.png": "98fa3a8d3253ce3ca567ac7f611d0feb",
 "assets/assets/menu/drink/jus_alpukat.png": "b64a08e28a61bf2f6e327aefadb9d1a8",
 "assets/assets/menu/drink/teh_hijau.png": "dc7981b8b46ca96da5103985088f4921",
@@ -64,14 +65,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "85dec6a325f0e62b848b8f993683522c
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "a94e658aa8b0fcad3e316a2444c58ca7",
+"flutter_bootstrap.js": "3a9a06777844988e87ac11f2f7b7eb54",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "dfc3130f6683c7a0a2ba7908f40a83b7",
-"/": "dfc3130f6683c7a0a2ba7908f40a83b7",
-"main.dart.js": "0a264cd0fca4586fe0a21ffa2c1ee02a",
+"index.html": "7e594a6f0fa34f6dfc55a0414acae7dc",
+"/": "7e594a6f0fa34f6dfc55a0414acae7dc",
+"main.dart.js": "8b0d5e3a8e8d8613e49fba9d7c73cb94",
 "manifest.json": "2161231d4fe84231f5157e92c5a59495",
 "version.json": "b9d3cd0527d9a70c9a372bccfbce9e1d"};
 // The application shell files that are downloaded before a service worker can
